@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "todo": "Example 1",
+      "id": 1
+    },
+    {
+      "todo": "Example 2",
+      "id": 2
+    },
+    {
+      "todo": "buy milk",
+      "userId": "116779212175683362827",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "todo": "take out the trash",
+      "userId": "116779212175683362827",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
