@@ -1,4 +1,4 @@
-# Getting Started with Hacker News Application
+# Getting Started with To-do Application with Google Authentication
 
 use git clone https://github.com/nok1214/Javascript-Todo-App.git
 then
