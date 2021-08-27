@@ -1,24 +1,30 @@
-# Getting Started with To-do Application with Google Authentication
+# To-do Application with Google OAuth
 
-use git clone https://github.com/nok1214/Javascript-Todo-App.git
-then
-npm install the application
+To-do application that uses Google OAuth and JSON server to save and display to-do list towards unique users.
 
 ================================================================
 
-### `npm start`
+## Project Goals
 
-the application will start in [http://localhost:3000]
-
-In order to make the application work, you need to start your JSON server separatly
-
-A simple to-do application that uses Google OAuth to sign-in users and saved their information in JSON Server
+Use Google OAuth to log in users and save their to-do items with JSON server on the backend.
 
 ================================================================
 
-This React JS application with JSON server for the backend database. This application also implements with Google OAuth.
+## How the application works
 
-Technologies used: React JS, Redux, React Hook, Google OAuth, semantic UI, JSON Server.
+This React JS application with JSON server for the backend database is also implemented with Google OAuth. Before logging in with Google email, start JSON server first then log in with your Google email. You can start adding to-do items onto your list and delete them when you are done.
+
+================================================================
+
+## Technologies used
+
+React JS, Redux, React Hook, JSON Server, Semantic UI, Google OAuth.
+
+================================================================
+
+## Quick Start
+
+After cloning the repository onto your local machine, use `npm install` and direct to todo-app/api use `npm start` to start JSON server first. Then direct to todo-app and use `npm start` and log in with your Google email to start using the application.
 
 ================================================================
 
